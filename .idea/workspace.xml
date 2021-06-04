@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8311c993-8954-4d93-9717-0441ba689573" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/board/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/board/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/board/Clouds.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/board/Clouds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/board/Environment.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/board/Environment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/board/EnvironmentBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/board/EnvironmentBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/board/EnvironmentCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/board/EnvironmentCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/board/EnvironmentPlan.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/board/EnvironmentPlan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/board/Forest.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/board/Forest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/creatures/Creature.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/creatures/Creature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/creatures/CreaturesFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/creatures/CreaturesFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/creatures/FlyingCreatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/creatures/FlyingCreatures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/creatures/GroundCreatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/creatures/GroundCreatures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/game/Battle.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/game/Battle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/game/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/gameAI/FlyingAI.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/gameAI/FlyingAI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/gameAI/GameAI.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/gameAI/GameAI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/gameAI/GroundAI.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/gameAI/GroundAI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/player/AttackPowerUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/player/AttackPowerUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/player/HPEvolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/player/HPEvolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/player/HealAbilityPowerUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/player/HealAbilityPowerUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/player/HealAttack.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/player/HealAttack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/player/NormalAttack.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/player/NormalAttack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/player/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/player/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/player/PlayerAbilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/player/PlayerAbilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/player/PlayerAttackStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/player/PlayerAttackStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/player/PlayerCreature.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/player/PlayerCreature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/player/PowerAttack.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/player/PowerAttack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/player/PowerUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/player/PowerUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/player/Powers.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/player/Powers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/player/StrategyContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/player/StrategyContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/settings/DifficultyState.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/settings/DifficultyState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/settings/DifficultyStateContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/settings/DifficultyStateContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/settings/EasyDifficulty.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/settings/EasyDifficulty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/settings/HardDifficulty.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/settings/HardDifficulty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dp_final/src/settings/MediumDifficulty.java" beforeDir="false" afterPath="$PROJECT_DIR$/dp_final/src/settings/MediumDifficulty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uml/final_project_uml.png" beforeDir="false" afterPath="$PROJECT_DIR$/uml/final_project_uml.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jbVKLEQZedQXysEVhwrYsG0K2l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Erald\IdeaProjects\final-project-team4\dp_final\src" />
+      <recent name="C:\Users\Erald\IdeaProjects\final-project-team4\main\src" />
+      <recent name="C:\Users\Erald\IdeaProjects\final-project-team4\main" />
+      <recent name="C:\Users\Erald\IdeaProjects\final-project-team4\main\creatures" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="dp_final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8311c993-8954-4d93-9717-0441ba689573" name="Default Changelist" comment="" />
+      <created>1604072713785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604072713785</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1604073982459">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604073982459" />
+    <state x="1061" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1607311159203">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1061" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607133934465" />
+    <state x="1061" y="231" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/-1920.0.1920.1080@0.0.1920.1050" timestamp="1607311159203" />
+    <state x="743" y="414" width="433" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1604691141935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="414" width="433" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604691141935" />
+    <state x="707" y="233" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1604202775026">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="707" y="233" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1050/-1920.0.1920.1080@0.0.1920.1050" timestamp="1604202775026" />
+    <state x="739" y="264" key="FileChooserDialogImpl" timestamp="1607307142910">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604075124185" />
+    <state x="739" y="264" key="FileChooserDialogImpl/0.0.1920.1050/-1920.0.1920.1080@0.0.1920.1050" timestamp="1607307142910" />
+    <state width="1876" height="555" key="GridCell.Tab.0.bottom" timestamp="1607313201257">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="86" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607234037418" />
+    <state width="1876" height="555" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1080@0.0.1920.1050" timestamp="1607313201257" />
+    <state width="1876" height="555" key="GridCell.Tab.0.center" timestamp="1607313201257">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="86" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607234037418" />
+    <state width="1876" height="555" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1080@0.0.1920.1050" timestamp="1607313201257" />
+    <state width="1876" height="555" key="GridCell.Tab.0.left" timestamp="1607313201257">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="86" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607234037418" />
+    <state width="1876" height="555" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1080@0.0.1920.1050" timestamp="1607313201257" />
+    <state width="1876" height="555" key="GridCell.Tab.0.right" timestamp="1607313201257">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="86" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607234037418" />
+    <state width="1876" height="555" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1080@0.0.1920.1050" timestamp="1607313201257" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1606025711073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606025711073" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1606025711073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606025711073" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1606025711072">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606025711072" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1606025711073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606025711073" />
+    <state x="505" y="256" width="909" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1606713346285">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="505" y="256" width="909" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606713346285" />
+    <state x="953" y="0" width="974" height="1047" key="dock-window-1" timestamp="1604088961024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="953" y="0" width="974" height="1047" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604088961024" />
+    <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1606715246785">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="119" width="585" height="801" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606715246785" />
+    <state x="342" y="140" key="new project wizard" timestamp="1605282421036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605282421036" />
+    <state x="803" y="277" key="refactoring.ChangeSignatureDialog" timestamp="1606962310736">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="803" y="277" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606962310736" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/final_project_team4$Main.ic" NAME="Main Coverage Results" MODIFIED="1604079032041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.*</FILTER>
+    </SUITE>
+  </component>
+</project>
